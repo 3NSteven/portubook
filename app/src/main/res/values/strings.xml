@@ -1,7 +1,5 @@
 <resources>
     <string name="app_name">PortuBook</string>
-    <string name="app_name1">Portu</string>
-    <string name="app_name2">Book</string>
     <string name="connexion">Se connecter</string>
     <string name="email">Email</string>
     <string name="password">Mot de passe</string>
